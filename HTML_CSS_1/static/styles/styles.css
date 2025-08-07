@@ -1,0 +1,105 @@
+body {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #222222;
+    height: 40px;
+}
+
+.nav-links {
+    list-style-type: none;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #222222;
+}
+
+.nav-links li a:hover {
+    color: #ffcc00;
+}
+
+.welcome h1 {
+    color: #cc0000;
+    font-size: 28px;
+}
+
+.informacion h3 {
+    font-size: 20px;
+    color: #444444;
+}
+
+.informacion p {
+    font-size: 16px;
+    color: #555555;
+}
+
+.informacion-general p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.informacion-general ul {
+    text-align: left;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+}
+
+.imagen-welcome img {
+    width: 300px;
+    height: auto;
+}
+
+
+body {
+font-family: Arial, sans-serif;
+background-color: #f9f9f9;
+color: #333;
+}
+
+h1 {
+    color: #cc0000;
+    font-size: 28px;
+}
+
+h2 {
+    color: #4a4a4a;
+    font-size: 22px;
+}
+
+p {
+    font-size: 16px;
+    color: #444444;
+}
+
+form {
+    font-size: 16px;
+}
+
+
+
+ul {
+    font-size: 16px;
+    text-align: center;
+}
+
+.imagen-welcome img {
+    width: 300px;
+    height: auto;
+}
